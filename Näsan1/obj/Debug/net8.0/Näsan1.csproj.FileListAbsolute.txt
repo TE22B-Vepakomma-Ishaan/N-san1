@@ -1,0 +1,14 @@
+c:\Users\ishaan.vepakomma\Documents\Programmering_2\Näsan1\Näsan1\bin\Debug\net8.0\Näsan1.exe
+c:\Users\ishaan.vepakomma\Documents\Programmering_2\Näsan1\Näsan1\bin\Debug\net8.0\Näsan1.deps.json
+c:\Users\ishaan.vepakomma\Documents\Programmering_2\Näsan1\Näsan1\bin\Debug\net8.0\Näsan1.runtimeconfig.json
+c:\Users\ishaan.vepakomma\Documents\Programmering_2\Näsan1\Näsan1\bin\Debug\net8.0\Näsan1.dll
+c:\Users\ishaan.vepakomma\Documents\Programmering_2\Näsan1\Näsan1\bin\Debug\net8.0\Näsan1.pdb
+c:\Users\ishaan.vepakomma\Documents\Programmering_2\Näsan1\Näsan1\obj\Debug\net8.0\Näsan1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ishaan.vepakomma\Documents\Programmering_2\Näsan1\Näsan1\obj\Debug\net8.0\Näsan1.AssemblyInfoInputs.cache
+c:\Users\ishaan.vepakomma\Documents\Programmering_2\Näsan1\Näsan1\obj\Debug\net8.0\Näsan1.AssemblyInfo.cs
+c:\Users\ishaan.vepakomma\Documents\Programmering_2\Näsan1\Näsan1\obj\Debug\net8.0\Näsan1.csproj.CoreCompileInputs.cache
+c:\Users\ishaan.vepakomma\Documents\Programmering_2\Näsan1\Näsan1\obj\Debug\net8.0\Näsan1.dll
+c:\Users\ishaan.vepakomma\Documents\Programmering_2\Näsan1\Näsan1\obj\Debug\net8.0\refint\Näsan1.dll
+c:\Users\ishaan.vepakomma\Documents\Programmering_2\Näsan1\Näsan1\obj\Debug\net8.0\Näsan1.pdb
+c:\Users\ishaan.vepakomma\Documents\Programmering_2\Näsan1\Näsan1\obj\Debug\net8.0\Näsan1.genruntimeconfig.cache
+c:\Users\ishaan.vepakomma\Documents\Programmering_2\Näsan1\Näsan1\obj\Debug\net8.0\ref\Näsan1.dll
