@@ -58,7 +58,7 @@ while(num != ans)
     guess = Console.ReadLine();
     isNum = int.TryParse(guess, out num);
 
-    while(isNum == false)
+    if(isNum == false)
     {       
             System.Console.WriteLine("not a number. guess again:");
             guess = Console.ReadLine();
